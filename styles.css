@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.wrapper {
+.holder {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-auto-rows: 200px;
@@ -9,4 +9,3 @@
   div{
     border: 2px solid black;
   }
-  
